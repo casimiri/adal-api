@@ -1,0 +1,14 @@
+C:\Users\casis\repos\adal-api\bin\Release\netcoreapp2.2\adal-api.deps.json
+C:\Users\casis\repos\adal-api\bin\Release\netcoreapp2.2\adal-api.runtimeconfig.json
+C:\Users\casis\repos\adal-api\bin\Release\netcoreapp2.2\adal-api.runtimeconfig.dev.json
+C:\Users\casis\repos\adal-api\bin\Release\netcoreapp2.2\adal-api.dll
+C:\Users\casis\repos\adal-api\bin\Release\netcoreapp2.2\adal-api.pdb
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.csproj.CoreCompileInputs.cache
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.RazorAssemblyInfo.cache
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.RazorAssemblyInfo.cs
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.AssemblyInfoInputs.cache
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.AssemblyInfo.cs
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.RazorTargetAssemblyInfo.cache
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.dll
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.pdb
+C:\Users\casis\repos\adal-api\obj\Release\netcoreapp2.2\adal-api.csprojAssemblyReference.cache
